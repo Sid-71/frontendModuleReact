@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": "sidharthdhimantdi@gmail.com",
+      "password": "Raj12586000",
+      "username": "sidharth"
+    },
+    {
+      "username": "sidharth",
+      "id": "sidharthdhimasantdi@gmail.com",
+      "password": "Raj12586000"
+    },
+    {
+      "username": "mridul",
+      "id": "mridul@gmail.com",
+      "password": "Raj12586"
+    }
+  ],
+  "todos": []
+}
